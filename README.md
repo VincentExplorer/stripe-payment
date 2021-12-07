@@ -15,5 +15,5 @@ STRIPE_PRIVATE_KEY=xxxxx
 4. npm install
 
 # quick start
-npm run devStart
-open your browser: http://localhost:3000
+1. npm run devStart
+2. open your browser: http://localhost:3000
