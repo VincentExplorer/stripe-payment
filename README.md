@@ -12,7 +12,7 @@ SERVER_URL=http://localhost:3000
 STRIPE_PRIVATE_KEY=xxxxx
 
 3. cd stripe-payment
-   npm install
+4. npm install
 
 # quick start
 npm run devStart
